@@ -21,8 +21,14 @@ This is a project that uses an Arduino Leonardo, a basic LED circuit and a USB-T
 ## Multiple Serial Port Communication
 ## State Machine
 *   What is a statemachine
+    * think stoplight  
 *   Rules
 *   Block Diagram
 *   Circuit Diagram
 * *  linkercad simulation would be nice
   *  
+
+Errors:
+some compatibility issues
+drivers needed to be installed
+debugging stuff on the thing
