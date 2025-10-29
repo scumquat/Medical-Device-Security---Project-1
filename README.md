@@ -23,7 +23,8 @@ Baud is calculated by considering the number of bits that can be transmitted in 
 *   V_cc: +3.3V, GND: ground, Tx: Data out, Rx: Data in
 ### Arduino Leonardo
 *   [Documentation](https://docs.arduino.cc/hardware/leonardo/)
-
+*   Pinout Information
+*   Arduino ISP 
 ## Multiple Serial Port Communication
 ## State Machine
 *   What is a statemachine
@@ -40,3 +41,9 @@ Errors:
 some compatibility issues
 drivers needed to be installed
 debugging stuff on the thing
+
+
+### Firmware Extraction
+*   Circuit diagram
+*   
+https://www.avrfreaks.net/s/topic/a5CV40000002enlMAA/t399127
